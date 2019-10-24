@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Rivers Blog
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+初次尝试，请多指教
 
-## Commands
+## Contents
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+* `产品汪` - 攒了一些产品笔记、产品项目总结.
+* `AI技术` - 学了一点人工智能的小知识.
+* `Mac生产力工具` - 试了一些好玩有用的小工具.
+* `作者` - 还是留个联系方式吧.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
