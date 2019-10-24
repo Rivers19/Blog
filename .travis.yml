@@ -1,0 +1,41 @@
+language: python
+python:
+  - "3.6"
+
+branches:
+  only:
+  - master
+
+notifications:
+  email:
+    recipients:
+      - 1808854208@qq.com
+    on_success: always # default: change
+    on_failure: always # default: alway
+cache:
+  directories:
+  - build
+  yarn: true
+before_install:
+- export TZ='Asia/Shanghai'  # 设置时区
+install:
+ - pip install -r blog.requirement
+script:
+- mkdocs build -c
+
+after_script:
+   - cd site/
+   - touch CNAME
+   - echo 'riversblog.site' > CNAME
+   - git init
+   - git config user.name "Rivers19"
+   - git config user.email "1808854208@qq.com"
+   - git add .
+   - git commit -m "Update mkdocs By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+   - git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master
+
+env:
+ global:
+   # Coding Pages
+   - GH_REF: github.com/Rivers19/Rivers19.github.io.git
+   
