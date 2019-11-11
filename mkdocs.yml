@@ -37,17 +37,19 @@ nav:
       - PM/项目集/SaaS产品需求概要.md
       - PM/项目集/China.cn会员后台.md
       - PM/项目集/觅影.md
-
-  - AI技术: 
-    - 自然语言处理:
-      - AI/NLP/自然语言处理简介.md
-      - AI/NLP/自然语言处理应用.md
-    - 机器学习:
-      - AI/ML/统计学习及监督学习概论.md
-
-    - Kaggle:
-      - AI/Kaggle/Kaggle学习笔记.md
-  - Mac生产力工具: 
+  - 技术:
+    - AI: 
+      - 自然语言处理:
+        - Tech/AI/NLP/自然语言处理简介.md
+        - Tech/AI/NLP/自然语言处理应用.md
+      - 机器学习:
+        - Tech/AI/ML/统计学习及监督学习概论.md
+    - DataMining:
+      - Kaggle:
+        - Tech/DataMining/Kaggle/Kaggle学习笔记.md
+      - SQL:
+        - Tech/DataMining/SQL/SQL学习笔记.md
+  - 生产力工具: 
     - iTerm2: MacTools/iTerm2简明使用教程.md
 
     - Typora: MacTools/Typora简明使用教程.md
