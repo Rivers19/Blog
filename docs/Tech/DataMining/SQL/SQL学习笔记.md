@@ -185,3 +185,9 @@ WHERE last_name REGEXP 'mac|age|by'
 -- WHERE last_name REGEXP '^mac|age|by'
 ```
 
+- 5.正则表达式：包含ge 或 me 或 ie
+
+```sql
+WHERE last_name REGEXP '[g,m,i]e'
+```
+
