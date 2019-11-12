@@ -8,7 +8,7 @@
 
 #### 1.1视频地址
 
-<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=61947066&cid=107705286&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+<iframe width="800" height="315" src="//player.bilibili.com/player.html?aid=61947066&cid=107705286&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 #### 1.2课程所用代码
 
@@ -38,6 +38,8 @@
 
 > MySQL中用--作为注释符号
 
+#### SELECT
+
 - SELECT * 返回所有记录
 
 ``` sql
@@ -48,6 +50,8 @@ FROM customers
 ```
 
 
+
+#### AND / OR
 
 ```sql
 SELECT * 
@@ -188,6 +192,31 @@ WHERE last_name REGEXP 'mac|age|by'
 - 5.正则表达式：包含ge 或 me 或 ie
 
 ```sql
-WHERE last_name REGEXP '[g,m,i]e'
+WHERE last_name REGEXP '[gmi]e'
 ```
 
+- 6.正则表达式：包含 a,b,c,d,e,f,g
+
+```SQL
+WHERE last_name REGEXP '[a-g]'
+```
+
+
+
+#### 	NULL
+
+- NULL
+
+```sql
+WHERE phone IS NULL
+```
+
+- NOT NULL
+
+```sql
+WHERE phone IS NOT NULL
+```
+
+
+
+#### 	ORDER BY
