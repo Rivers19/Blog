@@ -2,9 +2,9 @@
 
 
 
-## 竞品调研
+## 1. 竞品调研
 
-### KoinWorks：
+### 1.1 KoinWorks：
 
 官网：[https://koinworks.com/?locale=en](https://koinworks.com/?locale=en)
 
@@ -16,14 +16,14 @@
 - 教育中心页：koinworks的帮助中心
 - 关于我们：罗列了管理团队和顾问团队成员
 
-### Inverstree
+### 1.2 Inverstree
 
 官网：[https://www.investree.id/en](https://www.investree.id/en)
 
 - 和koinworks风格基本相同
 - 可在线进行投资或借款
 
-### Modalrakyat：
+### 1.3 Modalrakyat：
 
 官网：[https://www.modalrakyat.id](https://www.modalrakyat.id)
 
@@ -39,14 +39,14 @@
         - 强调合规性，eg.每页底部都会展示注意事项，强调平台合规
     - 形式上：页面设计观感舒适
 
-### RupiahPlus
+### 1.4 RupiahPlus
 
 官网：[https://www.rupiahplus.com/](https://www.rupiahplus.com/)
 
 - 404 Not Found
 - 官网无法访问
 
-### Dompet Kilat
+### 1.5 Dompet Kilat
 
 官网：[https://www.dompetkilat.co.id/index.html](https://www.dompetkilat.co.id/index.html)
 
@@ -61,7 +61,7 @@
 - 形式上：页面设计比较简洁，附加简单动画
 - 可以考虑参考
 
-### Fintag
+### 1.6 Fintag
 
 官网：[https://fintag.id/](https://fintag.id/)
 
@@ -75,7 +75,7 @@
 
 
 
-### KlikACC
+### 1.7 KlikACC
 
 官网:[https://klikacc.com/](https://klikacc.com/)
 
@@ -88,26 +88,26 @@
     - 联系我们：地图、地址、联系电话邮箱等
 - 形式上：页面设计比较普通
 
-### Danamerdeka
+### 1.8 Danamerdeka
 
 官网：[http://danamerdeka.co.id](http://danamerdeka.co.id/peminjam.html)
 
 - 翻墙失败，无法访问
 
-### Sanders
+### 1.9 Sanders
 
 官网：[https://sanders.co.id/home](https://sanders.co.id/home)
 
 - 分首页、投资、贷款、关于我们、常见问题
 - 首页：轮播图、注册入口、资讯
 
-### Qreditt
+### 1.10 Qreditt
 
 官网：[https://qreditt.com/](https://qreditt.com/)
 
 - 翻墙失败，无法访问
 
-### Dynamic Credit
+### 1.11 Dynamic Credit
 
 官网：[https://dynamiccredit.com/](https://dynamiccredit.com/)
 
@@ -116,7 +116,7 @@
 - 页面设计上简洁大气，观感舒适
 - 主要包括首页、服务、基金、招聘几大版块
 
-### Akseleran
+### 1.12 Akseleran
 
 官网：[https://www.akseleran.com/](https://www.akseleran.com/)
 
@@ -125,9 +125,7 @@
 - 首页：宣传轮播图、展示可投资项目、在本平台贷款好处、下载链接、用户评语、报道媒体、底部强调ojk注册监管并附加P2P风险提示
 - 关于我们：公司简介/价值观、罗列了公司主要成员
 
-
-
-## 高保真官网原型
+## 2. 高保真官网原型
 
 由于使用的是Axure，本链接是分享到AxShare上，加载速度会比较慢，如需查看请耐心等待
 

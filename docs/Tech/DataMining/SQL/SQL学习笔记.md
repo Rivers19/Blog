@@ -1,8 +1,4 @@
-# SQL学习笔记
-
-
-
-## MySQL in 3 hours
+# MySQL in 3 hours
 
 ## 1.课程素材
 
@@ -34,7 +30,7 @@
 
 
 
-### 2.2简易使用示例
+### 2.2基本示例
 
 > MySQL中用--作为注释符号
 
@@ -220,3 +216,36 @@ WHERE phone IS NOT NULL
 
 
 #### 	ORDER BY
+
+- 降序排列：DESC
+
+```sql
+SELECT *
+FROM customers
+ORDER  BY first_name DESC
+```
+
+- 升序排列：ASC
+
+```sql
+SELECT *
+FROM customers
+ORDER  BY first_name ASC
+```
+
+```sql
+order by A,B        这个时候都是默认按升序排列
+order by A desc,B   这个时候 A 降序，B 升序排列
+order by A ,B desc  这个时候 A 升序，B 降序排列
+```
+
+
+
+#### LIMIT
+
+```sql
+SELECT *
+FROM customers
+LIMIT 30 
+```
+
