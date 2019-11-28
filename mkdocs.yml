@@ -127,6 +127,7 @@ nav:
         - Tech/AI/ML/统计学习及监督学习概论.md
     - DataMining:
       - Kaggle:
+        - Tech/DataMining/Kaggle/数据基础.md
         - Tech/DataMining/Kaggle/Kaggle学习笔记.md
       - SQL:
         - Tech/DataMining/SQL/SQL学习笔记.md
