@@ -169,9 +169,33 @@ dtype: object
 
 
 
+### cut()与qcut()
 
+- cut()和qcut()的主要作用都是对若干连续变量进行分箱操作。但有所不同的是， cut()是按变量的值进行划分， 而qcut()是按照变量的个数进行划分。
 
+    ```python
+    # cut：按照数据值由小到大的顺序将数据分成4份， 并且使每组值的范围大致相等。
+    d_cut = d.copy()
+    d_cut['cut_group'] =pd.cut(d_cut['number'], 4)
+    d_cut
+    
+    # 查看每个分组里变量的个数
+    d_cut['cut_group'].value_counts()
+    ```
 
+    ```python
+    # 把变量由小到大分成四组，并且让每组变量的数量相同
+    d_qcut = d.copy()
+    d_qcut['qcut_group'] = pd.qcut(d_qcut['number'], 4)
+    d_qcut
+    
+    # 查看每个分组里变量的个数
+    d_qcut['qcut_group'].value_counts()
+    ```
+
+- 参考
+    - pandas的cut，qcut函数的使用和区别 - 晓伟的文章 - 知乎 https://zhuanlan.zhihu.com/p/68194655
+    - pandas的cut，qcut函数的使用和区别 - 晓伟的文章 - 知乎 https://zhuanlan.zhihu.com/p/68194655
 
 ## Numpy 使用笔记
 
@@ -196,4 +220,42 @@ plt.rcParams['figure.dpi'] = 300 #分辨率
 # 指定dpi=300，图片尺寸为 1800*1200
 # 设置figsize可以在不改变分辨率情况下改变比例
 ```
+
+
+
+
+
+### seaborn使用笔记
+
+- Python可视化 | Seaborn5分钟入门(三)——boxplot和violinplot - 易执的文章 - 知乎 https://zhuanlan.zhihu.com/p/34059825
+
+
+
+## Tricks
+
+- while small is arbitrary, we'll use the common minimum in statistics: http://nicholasjjackson.com/2012/03/08/sample-size-is-10-a-magic-number/
+- lambda函数
+    - 匿名函数本质上是一个函数，没有函数名称，因此使用匿名函数不用担心函数名冲突；
+    - 匿名函数一般适用于创建一些临时性的，小巧的函数；
+
+
+
+### 数据格式转换
+
+#### [1. Categorical Encoding](http://pbpython.com/categorical-encoding.html)
+
+- Find and Replace
+- Label Encoding
+- One Hot Encoding
+    - 缺点：cause the number of columns to expand greatly
+- Custom Binary Encoding
+- Scikit-Learn
+
+#### [2. Sklearn LabelEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html)
+
+#### [3. Sklearn OneHotEncoder](http://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.OneHotEncoder.html)
+
+#### [4. Pandas Categorical dtype](https://pandas.pydata.org/pandas-docs/stable/categorical.html)
+
+#### [5. pandas.get_dummies](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.get_dummies.html)
 

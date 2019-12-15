@@ -136,8 +136,8 @@ nav:
         - Tech/Basic/Linux基础.md
   - 生产力工具: 
     - iTerm2: MacTools/iTerm2简明使用教程.md
-
     - Typora: MacTools/Typora简明使用教程.md
     - 常用Git命令: MacTools/Git常用命令清单.md
+    - GitHub搜索技巧: MacTools/GitHub搜索技巧.md
   - 作者: 
     - 关于作者: about.md
