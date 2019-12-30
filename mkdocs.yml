@@ -130,6 +130,8 @@ nav:
         - Tech/AI/NLP/自然语言处理应用.md
       - 机器学习:
         - Tech/AI/ML/统计学习及监督学习概论.md
+      - 语音:
+        - Tech/AI/Speech/语音交互基础.md
     - DataMining:
       - Kaggle:
         - Tech/DataMining/Kaggle/数据基础.md
