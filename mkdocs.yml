@@ -145,7 +145,7 @@ nav:
     - Basic:
       - Linux:
         - Tech/Basic/Linux基础.md
-        - Teech/Basic/正则表达式.md
+        - Tech/Basic/正则表达式.md
   - 生产力工具: 
     - iTerm2: MacTools/iTerm2简明使用教程.md
     - Typora: MacTools/Typora简明使用教程.md
