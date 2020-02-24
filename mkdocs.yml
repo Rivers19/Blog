@@ -9,7 +9,7 @@ repo_name: 'Rivers19/Blog'
 repo_url: 'https://github.com/Rivers19/Blog'
 
 # Copyright
-copyright: "<a href='http://www.miitbeian.gov.cn'target='_blank'>京ICP备19046279号-1</a>"
+copyright: "<a href='http://www.beian.miit.gov.cn'target='_blank'>京ICP备19046279号-1</a>"
 
 # Configuration
 theme:
