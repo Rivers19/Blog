@@ -1,4 +1,4 @@
-## Contents
+# Contents
 
 * `产品汪` - 攒了一些产品笔记、产品项目总结.
 * `技术` - 学了一点AI、Data小知识.
@@ -7,11 +7,13 @@
 
 
 
+<br>
+
+<br>
 
 
 
-
-## A piece of poetry
+# A piece of poetry
 
 从明天起, 做一个幸福的人
 
@@ -47,9 +49,11 @@
 
 ------
 
-​																																																			海子· **《面朝大海，春暖花开》**1989
+ 海子.  **《面朝大海，春暖花开》**   1989 
 
+<br>
 
+<br>
 
 From tomorrow on,I will be a happy man.
 
@@ -111,7 +115,7 @@ I only wish to face the sea, with spring blossoms
 
 ----
 
-​																																								Haizi  ·  **Facing the Sea With Spring Blossoms**             1989
+​																																								Haizi.   **Facing the Sea With Spring Blossoms**             1989
 
 ![15163](https://rivers19-1300325434.cos.ap-beijing.myqcloud.com/2020-04-02-084038.jpg)
 

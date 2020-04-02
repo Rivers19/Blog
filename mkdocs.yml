@@ -85,7 +85,7 @@ extra_css:
 # Sturcture of Docs
 nav:
   - 首页: 
-    - TheBlog.md
+    - index.md
 
   - 产品汪:
     - PM笔记:
