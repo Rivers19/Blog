@@ -23,7 +23,7 @@
 
 我有一所房子, 面朝大海, 春暖花开
 
-
+<br>
 
 从明天起, 和每一个亲人通信
 
@@ -33,7 +33,7 @@
 
 我将告诉每一个人
 
-
+<br>
 
 给每一条河每一座山取一个温暖的名字
 
@@ -69,9 +69,7 @@ From tomorrow on,I will care foodstuff and vegetable.
 
 Living in a house towards the sea, with spring blossoms.
 
-
-
-
+<br>
 
 From tomorrow on,write to each of my dear ones.
 
@@ -89,7 +87,7 @@ I will spread it to each of them.
 
 
 
-
+<br>
 
 Give a warm name for every river and every mountain.
 
