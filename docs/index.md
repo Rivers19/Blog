@@ -11,23 +11,23 @@
 
 # A piece of poetry
 
-From tomorrow on,I will be a happy man.
+From tomorrow on,	I will be a happy man.
 
 
 
-Grooming,chopping and traveling all over the world.
+Grooming,	chopping and traveling all over the world.
 
 
 
-From tomorrow on,I will care foodstuff and vegetable.
+From tomorrow on,	I will care foodstuff and vegetable.
 
 
 
-Living in a house towards the sea, with spring blossoms.
+Living in a house towards the sea, 	with spring blossoms.
 
 <br>
 
-From tomorrow on,write to each of my dear ones.
+From tomorrow on,	write to each of my dear ones.
 
 
 
@@ -49,7 +49,7 @@ Give a warm name for every river and every mountain.
 
 
 
-Strangers,I will also wish you happy.
+Strangers,	I will also wish you happy.
 
 
 
@@ -65,7 +65,7 @@ May you enjoy happiness in this earthly world!
 
 
 
-I only wish to face the sea, with spring blossoms
+I only wish to face the sea,	with spring blossoms
 
 ----
 

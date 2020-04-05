@@ -17,8 +17,8 @@ theme:
   language: 'zh'
   palette:
       #primary: 'white'
-    primary: 'Deep Purple'
-    accent: 'Deep Purple'
+    primary: 'indigo'
+    accent: 'indigo'
   feature:
     tabs: true
 
