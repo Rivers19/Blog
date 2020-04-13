@@ -135,6 +135,7 @@ nav:
         - Tech/AI/ML/统计学习及监督学习概论.md
       - 语音:
         - Tech/AI/Speech/语音交互基础.md
+        - Tech/AI/Speech/基于特定客服领域对话系统的研究与实现.md
     - DataMining:
       - Kaggle:
         - Tech/DataMining/Kaggle/数据基础.md
